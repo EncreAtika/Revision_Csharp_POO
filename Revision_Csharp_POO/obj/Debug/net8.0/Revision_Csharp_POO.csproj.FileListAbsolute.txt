@@ -1,0 +1,15 @@
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\bin\Debug\net8.0\Revision_Csharp_POO.exe
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\bin\Debug\net8.0\Revision_Csharp_POO.deps.json
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\bin\Debug\net8.0\Revision_Csharp_POO.runtimeconfig.json
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\bin\Debug\net8.0\Revision_Csharp_POO.dll
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\bin\Debug\net8.0\Revision_Csharp_POO.pdb
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.AssemblyInfoInputs.cache
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.AssemblyInfo.cs
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.csproj.CoreCompileInputs.cache
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.sourcelink.json
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.dll
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\refint\Revision_Csharp_POO.dll
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.pdb
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\Revision_Csharp_POO.genruntimeconfig.cache
+C:\Users\whammouchi\Documents\GitHub\Revision_Csharp_POO\Revision_Csharp_POO\obj\Debug\net8.0\ref\Revision_Csharp_POO.dll
