@@ -21,7 +21,8 @@ namespace Revision_Csharp_POO
             Console.WriteLine("Comment tu t'appelles");
             // on assigne a la variable - response - la saisie qui sera faite par l'utilisateur :
             var response = Console.ReadLine();
-            // Le programme sattend à ce que l'utilisateur renseigne son nom :
+            // Le programme sattend à ce que l'utilisateur renseigne son nom 
+            //LA DIFFERENCE ENTRE READLINE ET READKEY c'est que - ReadLine - permet la saisie d'une phrase entière.
             Console.ReadLine();                
             
             Console.WriteLine("Bienvenue ");
@@ -55,11 +56,32 @@ namespace Revision_Csharp_POO
             int modulo = onze % 2;
             Console.WriteLine(modulo);
 
-            
+
             // LA CALCULATRICE :
 
             // Renseigner un premier nombre :
+            Console.WriteLine("Tapez un nombre : ");
+
+            // Creation d'une variable nommée - firstNumber" ici on utilise le terme - var- plutôt que - int - pour nommer cette variable.
+            var firstNumber = Console.ReadLine();
+
             //Puis renseigner un second nombre :
+            Console.WriteLine("Tapez un deuxième nombre : ");
+            var secondNumber = Console.ReadLine();
+            
+            // Faire l'addition :
+            var resultat = firstNumber + secondNumber;
+            
+            // Afficher le résultat :
+            Console.WriteLine(resultat);
+
+            // LE PROGRAMME VA AFFICHER LES DEUX CHIFFRES SAISIS L'UN APRèS L'AUTRE
+            // CAR IL Y A UN PROBLEME DANS LA MANIERE DONT LE COMPILATEUR VA REAGIR.
+            // LE COMPILATEUR ADDITIONNE EN FAIT deux CHAINE DE CARACTèRE ( - firstNumber - et - secondNumber -) 
+            // QUI APPARAISSENT L'UNE APRèS L'AUTRE.
+            // 
+
+
 
 
 
